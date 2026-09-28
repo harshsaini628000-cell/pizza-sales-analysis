@@ -57,7 +57,7 @@ pizza-sales-analysis/
 - **The Brie Carre Pizza** is the weakest on every metric (11,588.50 revenue, 490 pizzas, 480 orders).
 
 ## 🖥️ Dashboard Preview
-
+📊 [View the Executive Presentation (PDF)](presentation/Pizza_Sales_Performance_2015.pdf)
 ![Home - Classic](images/17_home_classic.png)
 
 ![Best/Worst - Classic](images/21_bestworst_classic.png)
